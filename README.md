@@ -16,7 +16,6 @@
   <img align="center" alt="Leo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Leo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Leo-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img height="100em" align="right" alt="Leo-Icon" src="https://pa1.narvii.com/6847/34ab1a873d28b0ca668e306cdbb06b35f4fc205a_hq.gif">
 </div>
   
   ##
