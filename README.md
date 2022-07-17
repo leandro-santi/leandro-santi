@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Game Development with Unity and C#
 - 🌱 I’m currently learning Android, Flutter and Unity Development
-- 👯 I’m looking to collaborate on Android or Unity Projects
+- 👯 I’m looking to collaborate on Android / Flutter / Unity Projects
 - 📫 How to reach me: leandro.s4nt1@gmail.com
 - ⚡ Fun fact: I love Animes 🇯🇵❤️
 
