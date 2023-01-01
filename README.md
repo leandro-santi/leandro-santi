@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on Game Development with Unity and C#
+- :school: I’m currently studying Information System at University of the State of Amazonas (EST/UEA)
 - 🌱 I’m currently learning Android App Development
 - 👯 I’m looking to collaborate on Android / Flutter / Unity Projects
 - 📫 How to reach me: leandro.s4nt1@gmail.com
