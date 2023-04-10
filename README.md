@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Game Development with Unity and C#
 - :school: I’m currently studying Information Systems at University of the State of Amazonas (EST/UEA)
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Android Development with Kotlin / Java
 - 👯 I’m looking to collaborate on Android / Unity / Linux Open Source Projects
 - 📫 How to reach me: leandro.s4nt1@gmail.com
 - ⚡ Fun fact: I love Animes ❤️
