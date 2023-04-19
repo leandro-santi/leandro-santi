@@ -6,9 +6,12 @@
 - 👯 I’m looking to collaborate on Android / Unity / Linux Open Source Projects
 - 📫 How to reach me: leandro.s4nt1@gmail.com
 - ⚡ Fun fact: I love Animes ❤️
+- 🐧 Linux Enthusiast
 
+  ###
 
-<div style="display: inline_block"><br>
+<div 
+  style="display: inline_block"><br>
   <img align="center" alt="Leo-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Leo-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Leo-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
@@ -28,4 +31,3 @@
   <a href="https://www.linkedin.com/in/leandro-santiago-a4075215b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
