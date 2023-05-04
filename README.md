@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Android / Unity / Linux Open Source Projects
 - 📫 How to reach me: leandro.s4nt1@gmail.com
 - ⚡ Fun fact: I love Animes ❤️
-- 🐧 Linux Enthusiast
+
 
 <div 
   style="display: inline_block"><br>
