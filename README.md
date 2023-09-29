@@ -36,5 +36,5 @@
 ###
 
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/927063683523401396/DFD3623BB7946F0315ADC8321E54EFF4014047AC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Centered GIF" width="1920">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/927063683523401396/DFD3623BB7946F0315ADC8321E54EFF4014047AC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Centered GIF" width="600">
 </div>
