@@ -32,3 +32,9 @@
   <a href = "mailto:leandro.s4nt1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-santi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+###
+
+<div align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/927063683523401396/DFD3623BB7946F0315ADC8321E54EFF4014047AC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Centered GIF" width="1920">
+</div>
