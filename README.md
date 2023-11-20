@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Android Development to expand my expertise in mobile app development.
 - 👯 I’m looking to collaborate on Android / Unity / Linux open source projects, combining my passion for open-source software.
 - 📫 How to reach me: leandro.s4nt1@gmail.com
-
+- 🐧 Linux Enthusiast.
 - 📓 I'm always exploring the fascinating world of C/C++ diving deep into algorithms and data structures to enhance my logic and problem-solving skills.
 
 ### Languages & Tools
