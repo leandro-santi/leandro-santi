@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on Game Development with Unity and C#.
+- 🔭 I’m currently working as Java Developer.
 - 🏫  I’m currently studying Information Systems at University of the State of Amazonas (EST/UEA).
 - 🌱 I’m currently learning Back-End Development with Java and Kotlin and Android Development to expand my expertise in mobile app development.
 - 🔧 Some technologies that I have experience with: Android, Microservices, Spring Boot, SQL, NoSQL, RabbitMQ.
-- 👯 I’m looking to collaborate on Android / Unity / Linux open source projects, combining my passion for open-source software.
+- 👯 I’m looking to collaborate on open source projects, combining my passion for open-source software.
 - 📫 How to reach me: leandro.s4nt1@gmail.com
 - 🐧 Linux Enthusiast.
 - 📓 I'm always exploring the fascinating world of C/C++ diving deep into algorithms and data structures to enhance my logic and problem-solving skills.
