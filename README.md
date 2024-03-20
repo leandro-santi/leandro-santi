@@ -39,7 +39,7 @@ Hello there!! I am Leandro :wave:😊
 
 I am pretty much a lifelong learner. I enjoy the idea of sharing my thoughts and knowledge with other people through social media, git repositories, and open-source contributions.
 
-I have experience with Game Development, Android Development and Back-end web programming. My main knowledge in technologies includes **Kotlin**, **Java**, **C/C++**, **Spring**, **Android**, **Linux**. I am also comfortable using **C#**, **Python**, **Elixir**, **Erlang**, and **Nim**.
+I have experience with Game Development, Android Development and Back-end web programming. My main knowledge in technologies includes **Kotlin**, **Java**, **C/C++**, **Spring**, **Android**, **Linux**. I am also comfortable using **C#**, **Rust**, **Elixir**, **Erlang**, and **Nim**.
 
 My main abilities include designing pretty library APIs, API modeling following software design principles, developing robust microservices and refactoring code with technical debt into nice abstractions.
 
