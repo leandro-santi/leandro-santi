@@ -41,7 +41,7 @@ I am pretty much a lifelong learner. I enjoy the idea of sharing my thoughts and
 
 I have experience with Game Development, Android Development and Back-end web programming. My main knowledge in technologies includes **Kotlin**, **Java**, **C/C++**, **Spring**, **Android**, **Linux**. I am also comfortable using **C#**, **Rust**, **Elixir**, **Erlang**, and **Nim**.
 
-My main abilities include designing pretty library APIs, API modeling following software design principles, developing robust microservices and refactoring code with technical debt into nice abstractions.
+My main abilities include designing pretty library APIs, API modeling following software design principles, developing robust microservices, crafting intuitive and user-friendly mobile applications and refactoring code with technical debt into nice abstractions.
 
 I am currently working as a _Java Developer_ on R&D projects with a focus on banking, financial, and industrial solutions.
 
