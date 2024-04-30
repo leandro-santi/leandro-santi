@@ -43,7 +43,7 @@ I have experience with Game Development, Android Development and Back-end web pr
 
 My main abilities include designing pretty library APIs, API modeling following software design principles, developing robust microservices, crafting intuitive and user-friendly mobile applications and refactoring code with technical debt into nice abstractions.
 
-I am currently working as a _Java Developer_ on R&D projects with a focus on banking, financial, and industrial solutions.
+I am currently working as a _Back-end Java Developer_ on R&D projects with a focus on banking, financial, and industrial solutions.
 
 ---
 
