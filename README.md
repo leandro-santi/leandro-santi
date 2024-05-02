@@ -56,6 +56,7 @@ I am currently working as a _Back-end Java Developer_ on R&D projects with a foc
     
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-483D8B?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF?&style=for-the-badge&logo=kotlin&logoColor=white">
   
