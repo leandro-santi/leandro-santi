@@ -1,7 +1,7 @@
 <h1 align="center"> Leandro Santiago </h1>
     
 <div align="center">
-<b>Software Engineer | Open Source Enthusiast | Linux Lover 🐧</b>
+<b>Software Engineer | Open Source Enthusiast | Lifelong Learner | Linux Lover 🐧</b>
 <br>
 <br>
 
@@ -37,13 +37,13 @@
 
 Hello there!! I am Leandro :wave:😊
 
-I am pretty much a lifelong learner. I enjoy the idea of sharing my thoughts and knowledge with other people through social media, git repositories, and open-source contributions.
+I am pretty much a lifelong learner. I enjoy the idea of sharing my thoughts and knowledge with other people through discussions, social media, git repositories, and open-source contributions.
 
-I have experience with Game Development, Android Development and Back-end web programming. My main knowledge in technologies includes **Kotlin**, **Java**, **C/C++**, **Spring**, **Android**, **Linux**. I am also comfortable using **C#**, **Rust**, **Elixir**, **Erlang**, and **Nim**.
+I have experience with Embedded Development, Game Development, Android Development and Back-end web programming. My main knowledge in technologies includes **C/C++**, **Java**, **Kotlin**, **Spring**, **Android**, **Linux**. I am also comfortable using **C#**, **Python**, **Rust**, **Elixir**, **Haskell**, **Erlang**, **Clojure** and **Nim**.
 
 My main abilities include designing pretty library APIs, API modeling following software design principles, developing robust microservices, crafting intuitive and user-friendly mobile applications and refactoring code with technical debt into nice abstractions.
 
-I am currently working as a _Back-end Java Developer_ on R&D projects with a focus on banking, financial, and industrial solutions.
+I am currently working as an _Embedded Developer Java/C/C++_ on R&D projects with a focus on banking, financial, and industrial solutions.
 
 ---
 
@@ -75,6 +75,7 @@ I am currently working as a _Back-end Java Developer_ on R&D projects with a foc
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
   
 </p>
 
@@ -102,6 +103,7 @@ I am currently working as a _Back-end Java Developer_ on R&D projects with a foc
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   
 </p>
 
