@@ -27,7 +27,7 @@
 ---
   
 <div align="right" style="margin:auto">
-     <a href="https://github.com/leandr-santi">
+     <a href="https://github.com/leandro-santi">
         <img height="170em"
              src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-santi&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
              alt="Most used languages"
@@ -35,22 +35,22 @@
     </a>
 </div>
 
-Hello there!! I am Leandro :wave:😊
+Hello there!! I am Leandro 👋😊
 
 I am pretty much a lifelong learner. I enjoy the idea of sharing my thoughts and knowledge with other people through discussions, social media, git repositories, and open-source contributions.
 
-I have experience with Embedded Development, Game Development, Android Development and Back-end web programming. My main knowledge in technologies includes **C/C++**, **Java**, **Kotlin**, **Spring**, **Android**, **Linux**. I am also comfortable using **C#**, **Python**, **Rust**, **Elixir**, **Haskell**, **Erlang**, **Clojure** and **Nim**.
+I have experience with Embedded Development, Game Development, Android Development and Back-end Web Programming. My main knowledge in technologies includes **C/C++**, **Java**, **Kotlin**, **Spring**, **Android**, **Linux**. I am also comfortable using **C#**, **Python**, **Rust**, **Elixir**, **Haskell**, **Erlang**, **Clojure** and **Nim**.
 
-My main abilities include designing pretty library APIs, API modeling following software design principles, developing robust microservices, crafting intuitive and user-friendly mobile applications and refactoring code with technical debt into nice abstractions.
+My main abilities include designing pretty API libraries, API modeling following software design principles, developing robust microservices, crafting intuitive and user-friendly mobile applications and refactoring code with technical debt into nice abstractions.
 
-I am currently working as an _Embedded Developer Java/C/C++_ on R&D projects with a focus on banking, financial, and industrial solutions.
+I am currently working as an _Embedded Java/C/C++ Developer_ on R&D projects with a focus on banking, financial, and industrial solutions.
 
 ---
 
 </div>
 </details>
 
-<h5>Languages & Tools</h5>
+<h5>Languages, Tools & Frameworks</h5>
 
 <p align='left'>
     
@@ -65,16 +65,17 @@ I am currently working as an _Embedded Developer Java/C/C++_ on R&D projects wit
 <p align='left'>
 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
   
 </p>
@@ -85,6 +86,7 @@ I am currently working as an _Embedded Developer Java/C/C++_ on R&D projects wit
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson">
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
   
@@ -102,8 +104,8 @@ I am currently working as an _Embedded Developer Java/C/C++_ on R&D projects wit
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
   
 </p>
 
