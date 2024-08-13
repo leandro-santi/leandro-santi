@@ -39,9 +39,9 @@ Hello there!! I am Leandro 👋😊
 
 I am pretty much a lifelong learner. I enjoy the idea of sharing my thoughts and knowledge with other people through discussions, social media, git repositories, and open-source contributions.
 
-I have experience with Embedded Development, Game Development, Android Development and Back-end Web Programming. My main knowledge in technologies includes **C/C++**, **Java**, **Kotlin**, **Spring**, **Android**, **Linux**. I am also comfortable using **C#**, **Python**, **Rust**, **Elixir**, **Haskell**, **Erlang**, **Clojure** and **Nim**.
+I have experience with Embedded Development, Game Development, Android Development and Back-end Web Programming. My main knowledge in technologies includes **C/C++**, **Java**, **Kotlin**, **Spring**, **Docker**, **Kubernetes**, **AWS**, **Linux**. I am also comfortable using **Android**, **C#**, **Python**, **Rust** and **Clojure**.
 
-My main abilities include designing pretty API libraries, API modeling following software design principles, developing robust microservices, crafting intuitive and user-friendly mobile applications and refactoring code with technical debt into nice abstractions.
+My main abilities include designing pretty API libraries, API modeling following software design principles, developing robust microservices, crafting intuitive and user-friendly applications and refactoring code with technical debt into nice abstractions.
 
 I am currently working as an _Embedded Java/C/C++ Developer_ on R&D projects with a focus on banking, financial, and industrial solutions.
 
@@ -71,6 +71,8 @@ I am currently working as an _Embedded Java/C/C++ Developer_ on R&D projects wit
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
