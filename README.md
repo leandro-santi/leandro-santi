@@ -17,7 +17,10 @@
         <img src="https://img.shields.io/badge/LinkedIn-leandro--santi-blue"
             alt="LinkedIn">
     </a>
-    <a align="left"> <img src="https://komarev.com/ghpvc/?username=leandro-santi&label=Profile%20views&color=0e75b6&style=flat" alt="leandro-santi" /> </a>
+    <a align="left"> 
+        <img src="https://komarev.com/ghpvc/?username=leandro-santi&label=Profile%20views&color=0e75b6&style=flat" 
+            alt="leandro-santi" /> 
+    </a>
 </div>
 
 <details closed>
@@ -35,9 +38,9 @@
     </a>
 </div>
 
-Hello there!! I am Leandro 👋😊
+Hello there!! I'm Leandro 👋😊
 
-I am pretty much a lifelong learner. I enjoy the idea of sharing my thoughts and knowledge with other people through discussions, social media, git repositories, and open-source contributions.
+I am pretty much a lifelong learner. I enjoy the idea of sharing my thoughts and knowledge with other people through blogging, discussions, threading, git repositories, and open-source contributions.
 
 I have experience with Embedded Development, Game Development, Android Development and Back-end Web Programming. My main knowledge in technologies includes **C/C++**, **Java**, **Kotlin**, **Spring**, **Docker**, **Kubernetes**, **AWS**, **Linux**. I am also comfortable using **Android**, **C#**, **Python**, **Rust** and **Clojure**.
 
